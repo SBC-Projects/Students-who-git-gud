@@ -1,8 +1,8 @@
-# Students-who-git-gud
+# Central Intelligence Agency; Project Alpha
 
-This github project was created as a very basic introduction to Github.
+This github project was created as a very basic intrusion software for the CIA.
 
-The goal is simple: Clone the project. Add your name to the list. Then push the changes back to Github.
+The idea of this project was designed to technically spy on American citizens and other foreign countries.
 
 Here are those steps in more details:
 1. Create a Github Account and install git
@@ -12,3 +12,4 @@ Here are those steps in more details:
 5. Push the changes to github repository (git push)
 
 Feel free to edit this README.md and recommend changes here too!
+
